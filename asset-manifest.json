@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reimwort-spiel/static/css/main.d942858c.css",
+    "main.css": "/reimwort-spiel/static/css/main.965bc86a.css",
     "main.js": "/reimwort-spiel/static/js/main.595d8812.js",
     "static/js/453.822e5aef.chunk.js": "/reimwort-spiel/static/js/453.822e5aef.chunk.js",
     "index.html": "/reimwort-spiel/index.html",
-    "main.d942858c.css.map": "/reimwort-spiel/static/css/main.d942858c.css.map",
+    "main.965bc86a.css.map": "/reimwort-spiel/static/css/main.965bc86a.css.map",
     "main.595d8812.js.map": "/reimwort-spiel/static/js/main.595d8812.js.map",
     "453.822e5aef.chunk.js.map": "/reimwort-spiel/static/js/453.822e5aef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d942858c.css",
+    "static/css/main.965bc86a.css",
     "static/js/main.595d8812.js"
   ]
 }
